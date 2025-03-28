@@ -1,0 +1,24 @@
+{
+  "name": "devops-doing",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Varshith-Yadav/devops-doing#readme",
+  "bugs": {
+    "url": "https://github.com/Varshith-Yadav/devops-doing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varshith-Yadav/devops-doing.git"
+  },
+  "license": "ISC",
+  "author": "varshith",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
